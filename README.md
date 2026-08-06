@@ -34,9 +34,8 @@ http://www.whois.com/whois website to get detailed information about a domain na
 ## Finding IP address:
 ping command is available on Windows as well as on Linux OS. Following is the example to find out the IP address of nvidia.com
 ## output
-<img width="443" height="300" alt="image" src="https://github.com/user-attachments/assets/9fea6d60-899f-497b-9dee-ffb2a65d54e3" />
 
-
+<img width="1917" height="1199" alt="Screenshot 2026-08-06 142932" src="https://github.com/user-attachments/assets/ce24fb6f-adb0-431d-8b3c-9745fe5ce4b4" />
 
 ## Finding Hosting Company
 get further detail by using ip2location.com website.
